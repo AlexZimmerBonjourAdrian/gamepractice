@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\CPos.cs">
+    <Files>
+      <File FileName="Assets\CScoreManager.cs" Line="23" Column="40" />
+      <File FileName="Assets\Scripts\Game\CSwitch.cs" Line="44" Column="46" />
+      <File FileName="Assets\CAudioManager.cs" Line="22" Column="2" />
+      <File FileName="Assets\CAudioTest.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\Obligatori\CManagerBall.cs" Line="30" Column="8" />
+      <File FileName="Assets\Scripts\Game\CPos.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: 'C:/Users/alex/Desktop/Backup/Nueva carpeta (5)/Ball Revolution 170 - #/ball
+    Revolution Respaldo -175/Assets/Scene/game3.unity'
+  isLoaded: 1
+  isActive: 1

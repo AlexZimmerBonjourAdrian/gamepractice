@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CGameManager.cs">
+    <Files>
+      <File FileName="Assets\CBall.cs" Line="73" Column="3" />
+      <File FileName="Assets\CPos.cs" Line="1" Column="1" />
+      <File FileName="Assets\CManagerBall.cs" Line="36" Column="31" />
+      <File FileName="Assets\Scripts\CLevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CGameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CGizmo.cs">
+    <Files>
+      <File FileName="Assets\CBall.cs" Line="99" Column="4" />
+      <File FileName="Assets\CManagerBall.cs" Line="44" Column="1" />
+      <File FileName="Assets\Scripts\Flipper\Flipper.cs" Line="25" Column="67" />
+      <File FileName="Assets\Scripts\CGizmo.cs" Line="19" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

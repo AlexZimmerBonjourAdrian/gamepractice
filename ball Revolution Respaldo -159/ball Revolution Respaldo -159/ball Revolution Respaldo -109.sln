@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A4F4132-3405-0C8D-E662-A791D435501D}") = "ball Revolution Respaldo -109", "Assembly-CSharp.csproj", "{D71C5253-0A5C-8504-F3A6-50F25F50104C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71C5253-0A5C-8504-F3A6-50F25F50104C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71C5253-0A5C-8504-F3A6-50F25F50104C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71C5253-0A5C-8504-F3A6-50F25F50104C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71C5253-0A5C-8504-F3A6-50F25F50104C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

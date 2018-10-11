@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ball Revolution Respaldo -138.CSharp", "ball Revolution Respaldo -138.CSharp.csproj", "{654443CE-7191-1F67-FD2D-9BD1DDF22EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654443CE-7191-1F67-FD2D-9BD1DDF22EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654443CE-7191-1F67-FD2D-9BD1DDF22EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654443CE-7191-1F67-FD2D-9BD1DDF22EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654443CE-7191-1F67-FD2D-9BD1DDF22EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

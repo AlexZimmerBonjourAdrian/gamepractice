@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\CSwitch.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\CSwitch.cs" Line="89" Column="4" />
+      <File FileName="Assets\Scripts\Obligatori\CLevelManager.cs" Line="108" Column="3" />
+      <File FileName="Assets\CLoadImage.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\CAudioManager.cs" Line="57" Column="2" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
